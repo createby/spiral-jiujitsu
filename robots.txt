@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://createby.github.io/spiral-jiujitsu/sitemap.xml
+Sitemap: https://spiralbjj.kr/sitemap.xml
